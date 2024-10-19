@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Надежда Лысенко](https://up.htmlacademy.ru/javascript/33/user/2109017).
-* Наставник:[Евгений Лепёшкин](https://github.com/Spearance).
+* Наставник: [Евгений Лепёшкин](https://github.com/Spearance).
 
 ---
 
